@@ -1,0 +1,14 @@
+C:\Users\fanto\Desktop\24.11\26-5\26-5\bin\Debug\net6.0\26-5.exe
+C:\Users\fanto\Desktop\24.11\26-5\26-5\bin\Debug\net6.0\26-5.deps.json
+C:\Users\fanto\Desktop\24.11\26-5\26-5\bin\Debug\net6.0\26-5.runtimeconfig.json
+C:\Users\fanto\Desktop\24.11\26-5\26-5\bin\Debug\net6.0\26-5.dll
+C:\Users\fanto\Desktop\24.11\26-5\26-5\bin\Debug\net6.0\26-5.pdb
+C:\Users\fanto\Desktop\24.11\26-5\26-5\obj\Debug\net6.0\26-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanto\Desktop\24.11\26-5\26-5\obj\Debug\net6.0\26-5.AssemblyInfoInputs.cache
+C:\Users\fanto\Desktop\24.11\26-5\26-5\obj\Debug\net6.0\26-5.AssemblyInfo.cs
+C:\Users\fanto\Desktop\24.11\26-5\26-5\obj\Debug\net6.0\26-5.csproj.CoreCompileInputs.cache
+C:\Users\fanto\Desktop\24.11\26-5\26-5\obj\Debug\net6.0\26-5.dll
+C:\Users\fanto\Desktop\24.11\26-5\26-5\obj\Debug\net6.0\refint\26-5.dll
+C:\Users\fanto\Desktop\24.11\26-5\26-5\obj\Debug\net6.0\26-5.pdb
+C:\Users\fanto\Desktop\24.11\26-5\26-5\obj\Debug\net6.0\26-5.genruntimeconfig.cache
+C:\Users\fanto\Desktop\24.11\26-5\26-5\obj\Debug\net6.0\ref\26-5.dll
